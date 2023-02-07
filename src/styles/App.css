@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(238, 223, 241);
+}
+
+.App {
+    background-color: pink;
+}
+
+.penguin {
+    height: auto;
+    width: 100px;
+}
