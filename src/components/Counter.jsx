@@ -6,6 +6,8 @@ export default class Counter extends React.Component {
         counter: 0,
 
     }
+
+    //two ways to set state, in the state object and in the constructor
 //     constructor(props) {
 //       console.log('Constructor');
 //     super(props);
